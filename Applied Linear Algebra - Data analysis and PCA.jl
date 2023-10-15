@@ -103,7 +103,7 @@ end
 Johns_grades()
 
 # ╔═╡ c5e9504a-505a-4ba9-be78-2c86c77d23fe
-$md"
+md"
 With this way of communicating, there isn't any ambiguity about how good John is in math and in the arts. He's 16-good at math, 11-good at english, 8-good at history, 4-good at french, and 0-good at crafts.
 
 What do these numbers mean? Well, that depends on what school officials agreed it would mean beforehand. Maybe they carefully crafted a single standard evaluation system which measured exactly what the students knew about a specific topic, and then ranked a sample population of students through this system, and then invented a way to attribute a number to each student's knowledge that would be maximally informative of the ranking. Maybe they asked 20 questions to the students, and each question answered correctly would get the student a point. Maybe they just decided arbitrarily which numbers would be given to which student, and maybe they drew numbers at random. 
